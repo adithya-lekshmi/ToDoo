@@ -1,2 +1,29 @@
-# ToDoo
-A clean and responsive to-do list web app built with HTML, CSS, and JavaScript featuring task filtering, localStorage persistence, and smooth UI animations.
+ # Task Manager Web App
+
+A clean and responsive task management application built using HTML, CSS, and Vanilla JavaScript.
+
+## Features
+
+- Add tasks
+- Delete tasks with animation
+- Mark tasks as completed
+- Filter tasks (All / Active / Completed)
+- Task counter
+- Data persistence using localStorage
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Local Storage API
+
+## Future Improvements
+
+- Dark mode toggle
+- Edit task feature
+- Drag and drop support
+
+---
+
+Built as a portfolio project.
